@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeterogenousRecyclerView.iml" filepath="$PROJECT_DIR$/HeterogenousRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heterorecycler/heterorecycler.iml" filepath="$PROJECT_DIR$/heterorecycler/heterorecycler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerdemo/recyclerdemo.iml" filepath="$PROJECT_DIR$/recyclerdemo/recyclerdemo.iml" />
+    </modules>
+  </component>
+</project>
